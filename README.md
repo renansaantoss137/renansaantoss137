@@ -45,22 +45,6 @@ Sou apaixonado pela área de dados e pela possibilidade de transformar informaç
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo" />
 </div>
-- **O que faz:** <Descrição do projeto / objetivo de negócio>  
-- **Meu papel:** <O que você fez / contribuiu>  
-- **Entregáveis:** <Links ou arquivos>  
-- **Impacto:** <Resultado ou aprendizado>
-
-### Projeto 2 · <Tecnologia / Ferramentas>
-- **O que faz:** <Descrição do projeto / objetivo de negócio>  
-- **Meu papel:** <O que você fez / contribuiu>  
-- **Entregáveis:** <Links ou arquivos>  
-- **Impacto:** <Resultado ou aprendizado>
-
-### Projeto 3 · <Tecnologia / Ferramentas>
-- **O que faz:** <Descrição do projeto / objetivo de negócio>  
-- **Meu papel:** <O que você fez / contribuiu>  
-- **Entregáveis:** <Links ou arquivos>  
-- **Impacto:** <Resultado ou aprendizado>
 
 ---
 
@@ -71,7 +55,7 @@ Sou apaixonado pela área de dados e pela possibilidade de transformar informaç
 ---
 
 ## Contato
-- Email: <EMAIL@EXEMPLO.COM>  
-- LinkedIn: <LINK_LINKEDIN>  
-- GitHub: <LINK_GITHUB>  
-- Disponível para: projetos de BI, análise de dados e automação de relatórios
+- Email: <renansaantoss@hotmail.com>  
+- LinkedIn: <www.linkedin.com/in/renansantos-analistadedados>  
+- GitHub: <https://github.com/renansaantoss137>  
+- Disponível para: projetos de BI, análise de dados, construção de modelos preditivos, prescritivos e automação de processos.
