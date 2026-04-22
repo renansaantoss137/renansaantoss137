@@ -16,14 +16,14 @@
 
 ---
 
-## 🎯 Sobre
-Me chamo Renan Santos Ferreira, tenho 29 anos e sou formado em Engenharia de Controle e Automação pelo Instituto Federal de São Paulo. Atualmente, sou Analista de Dados Pleno na Gerdau Aços Longos.
+## Sobre
+Me chamo Renan Santos Ferreira, tenho 30 anos e sou formado em Engenharia de Controle e Automação pelo Instituto Federal de São Paulo. Atualmente, sou Analista de Dados Pleno na Gerdau Aços Longos.
 
 Sou apaixonado pela área de dados e pela possibilidade de transformar informações em resultados.
 
 ---
 
-## 🧭 Competências principais
+## Competências principais
 - **BI & Visualização:** Power BI, dashboards interativos, storytelling visual  
 - **SQL & Bancos de Dados:** consultas, joins, views, modelagem de dados, SAP HANA  
 - **Excel Avançado:** fórmulas complexas, tabelas dinâmicas, Power Query, macros  
@@ -32,8 +32,7 @@ Sou apaixonado pela área de dados e pela possibilidade de transformar informaç
 
 ---
 
-## 📂 Projetos do Portfólio
-## 🛠 Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
@@ -65,13 +64,13 @@ Sou apaixonado pela área de dados e pela possibilidade de transformar informaç
 
 ---
 
-## 📈 Métricas & KPIs que acompanho
+## Métricas & KPIs que acompanho
 - <Ex: Qualidade de dados, tempo de execução de pipelines, eficiência de relatórios>  
 - <Ex: Indicadores de negócio analisados>
 
 ---
 
-## 📬 Contato
+## Contato
 - Email: <EMAIL@EXEMPLO.COM>  
 - LinkedIn: <LINK_LINKEDIN>  
 - GitHub: <LINK_GITHUB>  
