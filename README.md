@@ -18,8 +18,8 @@
     <img src="https://img.shields.io/badge/SAP%20HANA-7DB6FF?style=for-the-badge&logo=sap-hana&logoColor=white" alt="SAP HANA" />
   </p>
     <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=renansaantoss137&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1%22 height="150" alt="stats graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=renansaantoss137&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2%22 height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=renansaantoss137&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1%22 height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=renansaantoss137&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2%22 height="150" alt="languages graph"  />
 </div>
  
 ---
